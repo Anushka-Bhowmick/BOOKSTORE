@@ -179,5 +179,11 @@ p {
     font-size: 1.7rem;
     border-radius: .5rem;
     border: .2rem solid rgb(212, 5, 5);
+     color: red;
+    cursor: pointer;
+    background: none;
+}
+.btn:hover{
+    background-color:rgb(212, 5, 5);
     color: white;
 }
